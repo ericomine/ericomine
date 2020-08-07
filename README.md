@@ -1,7 +1,7 @@
 ![header](https://raw.githubusercontent.com/ericomine/ericomine/master/assets/header.png)
 
 ### Hello
-I'm a hybrid mobile software developer, working mainly with Flutter (and Django for back end). I can also work with RN/React and dotnet.
+I'm a hybrid mobile software developer, working mainly with Flutter and Django (or alternatively RN/React and dotnet).
 I've also worked 6 years writing software for image/audio recognition, using C#, C++ and OpenCV.
 
 ### Pet Project 🦒

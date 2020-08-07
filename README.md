@@ -11,7 +11,7 @@ I'm currently working on a Non-Violent Communication journaling app, using Flutt
 - I'm a Buddhist,
 - I've worked 2 years with woodworking,
 - I love bicycles, all kinds of bikes 🚴,
-- I have an EE degree from [USP](usp.br),
+- I have an EE degree from [USP](http://usp.br),
 - http://pronoun.is/he
 
 <!--

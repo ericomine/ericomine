@@ -8,7 +8,7 @@ I've also worked 6 years writing software for image/audio recognition, using C#,
 I'm currently working fulltime as a Flutter Developer at @codehashi.
 
 ### Side gig
-I'm currently developing an Behavioral Management Program app for [Instituto Biodelta](https://biodelta.com.br) using Flutter and Django. The methodology already existed and has been in use by the client to keep track of KPIs regarding their employees performance at work; the client uses a mix of Google Forms, Google Sheets and Excel to collect and analyze the data, this has served as base to model the database and stablish the use cases and API endpoints. Figma prototypes have been used to align project goals with the client. The client-side code ~~is available in [here](https://github.com/ericomine/pgc_app)~~ was public, but I have closed both mobile and back-end code now.
+I'm currently developing an Behavioral Management Program app for [Instituto Biodelta](https://biodelta.com.br) using Flutter, Django and Figma prototypes. This should replace a series of spreadsheets. I have currently closed the source code.
 
 ### Pet Project 🦒
 I'm currently working on a Non-Violent Communication journaling app, using Flutter. It's called Giraffe (which is the NVC mascot) and it's meant to help users learn and practice NVC daily. Source code is in [here](https://github.com/ericomine/giraffe-app), still in early stages.

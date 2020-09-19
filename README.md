@@ -7,7 +7,7 @@ I've also worked 6 years writing software for image/audio recognition, using C#,
 ### void main() =>
 I'm currently working fulltime as a Flutter Developer at @codehashi.
 
-### Side gig
+### Side Gig
 I'm currently developing an Behavioral Management Program app for [Instituto Biodelta](https://biodelta.com.br) using Flutter, Django and Figma prototypes. This should replace a series of spreadsheets. I have currently closed the source code.
 
 ### Pet Project 🦒

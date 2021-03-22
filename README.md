@@ -1,8 +1,8 @@
 ![header](https://raw.githubusercontent.com/ericomine/ericomine/master/assets/header.png)
 
 ### Hello
-I'm an hybrid mobile software developer, working mainly with Flutter and Django (or alternatively RN/React and dotnet).
-I've also worked 6 years writing software for image/audio recognition, using C#, C++ and OpenCV.
+I'm an hybrid mobile software developer, working mainly with Flutter.
+I've also worked 6 years writing image/audio recognition services for the backend, using C#, C++ and OpenCV.
 
 ### void main() =>
 I'm currently working fulltime as a Flutter Developer at @codehashi.

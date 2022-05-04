@@ -5,18 +5,15 @@ I'm an hybrid mobile software developer, working mainly with Flutter.
 I've also worked 6 years writing image/audio recognition services for the backend, using C#, C++ and OpenCV.
 
 ### void main() =>
-I'm currently working fulltime as a Flutter Developer at @codehashi.
+I'm currently working fulltime as a Flutter Developer at Iteris.
 
 ### Side Gig
-I'm currently developing an Behavioral Management Program app for [Instituto Biodelta](https://biodelta.com.br) using Flutter, Django and Figma prototypes. This should replace a series of spreadsheets. I have currently closed the source code.
-
-### Pet Project 🦒
-I'm currently working on a Non-Violent Communication journaling app, using Flutter. It's called Giraffe (which is the NVC mascot) and it's meant to help users learn and practice NVC daily. Source code is in [here](https://github.com/ericomine/giraffe-app), still in early stages.
+I'm currently developing an Behavioral Management Program app for [Instituto Biodelta](https://biodelta.com.br) using Flutter, Firebase and Figma prototypes.
 
 ### ⚡ Fun facts:
 - I'm a Buddhist,
 - I've worked 2 years with woodworking,
-- I love bicycles, all kinds of bikes 🚴,
+- I love bicycles 🚴,
 - I have an EE degree from [USP](http://usp.br),
 - http://pronoun.is/he
 

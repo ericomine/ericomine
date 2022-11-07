@@ -1,14 +1,7 @@
-![header](https://raw.githubusercontent.com/ericomine/ericomine/master/assets/header.png)
+![header](https://user-images.githubusercontent.com/3171646/200344276-186536ea-3076-4b7c-8792-54550d7549d9.jpeg)
 
 ### Hello
-I'm an hybrid mobile software developer, working mainly with Flutter.
-I've also worked 6 years writing image/audio recognition services for the backend, using C#, C++ and OpenCV.
-
-### void main() =>
-I'm currently working fulltime as a Flutter Developer at Iteris.
-
-### Side Gig
-I'm currently developing an Behavioral Management Program app for [Instituto Biodelta](https://biodelta.com.br) using Flutter, Firebase and Figma prototypes.
+I'm looking for a Senior Mobile Engineer position. I have been working with Flutter for the past 3 years, during this period I have delivered 5 and kickstarted 3 mobile applications. Before this, I also worked for more than 5yrs with C#, C++, and Python, accumulating plenty of knowledge of OOP and Software Engineering in different contexts and stacks. I've also owned my own business and worked with research and strategic planning. Due to my wide range of professional experiences and interests, I also have very assertive and empathetic communication skills.
 
 ### ⚡ Fun facts:
 - I'm a Buddhist,
